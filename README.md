@@ -1,12 +1,14 @@
-# Rock Paper Scissors — Early Python Exercise
+# Rock Paper Scissors
 
-A simple command-line Rock Paper Scissors game created while learning Python fundamentals.
+A small command-line Rock Paper Scissors game written in Python.
 
-## Concepts practiced
-- Loops
-- User input
-- Conditional logic
-- Random selection
-- Basic game-state flow
+## Uses
 
-> This repository is retained as part of my learning history. It is not representative of my current project scope or engineering level.
+- loops
+- user input
+- conditional logic
+- random selection
+
+## Run
+
+Run the Python file from a terminal and choose rock, paper, or scissors when prompted.
