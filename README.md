@@ -4,19 +4,19 @@ RepoLens turns a public GitHub repository URL into a quick codebase overview.
 
 Paste a repo such as `github.com/timwmcqueen/FieldOps` and it reads the public repository metadata and file tree to show the detected stack, tests, CI setup, containers, likely entry points, language mix, recent commits, and repository structure.
 
-![CI](https://github.com/timwmcqueen/Rock-paper-scissors/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/timwmcqueen/RepoLens/actions/workflows/ci.yml/badge.svg)
 
 ## Try it
 
 The app is a Vite/React project and runs entirely in the browser.
 
-[Open in StackBlitz](https://stackblitz.com/github/timwmcqueen/Rock-paper-scissors?startScript=dev)
+[Open in StackBlitz](https://stackblitz.com/github/timwmcqueen/RepoLens?startScript=dev)
 
 Or clone it:
 
 ```bash
-git clone https://github.com/timwmcqueen/Rock-paper-scissors.git
-cd Rock-paper-scissors
+git clone https://github.com/timwmcqueen/RepoLens.git
+cd RepoLens
 npm install
 npm run dev
 ```
